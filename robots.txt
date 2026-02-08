@@ -1,37 +1,37 @@
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Claude-Web
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: YandexBot
+Allow: /
+
+User-Agent: Bingbot
+Allow: /
+
+User-Agent: *
+Allow: /
+
 Sitemap: https://CodeWithDmitry.github.io/sitemap.xml
-
-# OpenAI Crawlers
-User-agent: GPTBot
-User-agent: ChatGPT-User
-User-agent: OAI-SearchBot
-Allow: /
-
-# Anthropic (Claude)
-User-agent: ClaudeBot
-User-agent: Claude-Web
-User-agent: anthropic-ai
-Allow: /
-
-# Perplexity AI
-User-agent: PerplexityBot
-Allow: /
-
-# Google AI & Search
-User-agent: Google-Extended
-User-agent: Googlebot
-Allow: /
-
-# Yandex
-User-agent: YandexBot
-Allow: /
-
-# Meta AI, Bing, Cohere
-User-agent: FacebookBot
-User-agent: Bingbot
-User-agent: facebookexternalhit
-User-agent: cohere-ai
-Allow: /
-
-# Allow all other crawlers
-User-agent: *
-Allow: /
